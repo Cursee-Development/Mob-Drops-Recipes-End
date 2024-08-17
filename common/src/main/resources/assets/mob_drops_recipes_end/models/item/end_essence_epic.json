@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mob_drops_recipes_end:item/end_essence_epic"
+  }
+}

@@ -8,7 +8,10 @@ dependencies {
     modImplementation "net.fabricmc:fabric-loader:${fabric_loader_version}"
     modImplementation "net.fabricmc.fabric-api:fabric-api:${fabric_version}"
 
-    modImplementation "curse.maven:monolib-968432:5443119"
+    modImplementation "curse.maven:monolib-968432:5613090"
+
+    // JEI
+    modImplementation "curse.maven:jei-238222:5630562"
 }
 
 loom {

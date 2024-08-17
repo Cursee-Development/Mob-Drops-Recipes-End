@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "M": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "W": {
+      "item": "minecraft:experience_bottle"
+    }
+  },
+  "pattern": [
+    " S ",
+    "MAM",
+    " W "
+  ],
+  "result": {
+    "id": "minecraft:dragon_breath"
+  },
+  "show_notification": true
+}

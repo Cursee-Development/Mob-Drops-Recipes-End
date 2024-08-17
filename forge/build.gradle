@@ -71,7 +71,10 @@ dependencies {
 
     implementation('net.sf.jopt-simple:jopt-simple:5.0.4') { version { strictly '5.0.4' } }
 
-    implementation "curse.maven:monolib-968432:5456852"
+    implementation "curse.maven:monolib-968432:5613091"
+
+    // JEI
+    implementation "curse.maven:jei-238222:5630563"
 }
 
 tasks.named('compileJava', JavaCompile).configure {
